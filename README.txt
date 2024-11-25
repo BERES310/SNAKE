@@ -65,4 +65,3 @@ For major changes, please open an issue first to discuss potential improvements.
 
 Credits
 Developed by Jan Beres.
-Built using Python and Pygame.
